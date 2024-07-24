@@ -20,6 +20,16 @@ On this page, you'll find various projects I'm working on, including:
 
 I am always looking for new challenges and opportunities to learn. Whether you are an experienced professional or just starting in the world of cybersecurity, I encourage you to collaborate, exchange ideas, and learn from each other.
 
+## Platforms
+
+### Hack The Box
+
+I actively participate in challenges on [Hack The Box](https://www.hackthebox.eu/). Hack The Box is a platform that provides virtual machines for hacking practice. Check out my profile [here](https://app.hackthebox.com/users/394320).
+
+### TryHackMe
+
+I also enjoy learning and solving challenges on [TryHackMe](https://tryhackme.com/). TryHackMe offers guided and gamified lessons on cybersecurity. Visit my profile [here](https://tryhackme.com/p/xT1lapia).
+
 ## Let's Connect
 
 Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-r-31b77212b/)). I am open to collaboration, questions, or just a good conversation about all things security.
@@ -31,3 +41,5 @@ Everything is still under construction and will be updated soon!
 ---
 
 © 2024 xT1lapia. All rights reserved.
+
+
