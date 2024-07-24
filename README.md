@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am [Your Name], a dedicated **Security Practitioner** with a passion for securing systems and protecting data. With a background in information security and a deep understanding of cybersecurity techniques, I am continually expanding my skills and knowledge.
+Hello! I am Ivan, a dedicated **Security Practitioner** with a passion for securing systems and protecting data. With a background in information security and a deep understanding of cybersecurity techniques, I am continually expanding my skills and knowledge.
 
 ## My Mission
 
